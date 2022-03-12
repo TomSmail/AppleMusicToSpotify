@@ -1,5 +1,5 @@
 # Apple Music / Itunes to Spotify playlist converter
-This short project has been created for user's who want to move their old Apple based playlists over to Spotify using Python. This is a very simplistic first try but should work effectively if it is a little hacky. 
+This short project has been created for user's who want to move their old Apple based playlists over to Spotify using Python. This is a very simplistic first try but should work effectively even if it is a little hacky. 
 # Step 1: Install Python and Spotipy
 These are the two prerequisites for this project, assuming you already have python installed run: 
 
