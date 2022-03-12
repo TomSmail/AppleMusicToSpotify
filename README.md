@@ -17,6 +17,7 @@ From here we want to keep this tab open so we can get the client secret and clie
 
 # Step 3: Exporting a playlist
 The program takes a text file and searches for the songs on spotify, then adds them to a playlist. Thus, we need to create this text file. This is done by going to apple music or itunes (File -> Library -> Export Playlist -> Text File) Take this text file and get it's file path. 
+
 <img width="514" alt="Screenshot 2022-03-12 at 15 13 24" src="https://user-images.githubusercontent.com/67635582/158023686-2246a517-ade4-45ee-b635-3b916612cfd3.png">
 
 
